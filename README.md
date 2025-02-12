@@ -14,7 +14,7 @@
 
 ### 🔝 Top Contributed Repo
 ### 📌 Top Repositories
-[![Hemant's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=jhahemantx&repo=Repo1&theme=dark)](https://github.com/jhahemantx/mlops)
+[![Hemant's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=jhahemantx&repo=mlops&theme=dark)](https://github.com/jhahemantx/mlops)
 [![Hemant's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=jhahemantx&repo=Repo2&theme=dark)](https://github.com/jhahemantx/portfolio)
 [![Hemant's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=jhahemantx&repo=Repo3&theme=dark)](https://github.com/jhahemantx/churn-flask)
 
