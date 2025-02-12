@@ -13,7 +13,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=jhahemantx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jhahemantx&limit=5&theme=dark&combine_all_yearly_contributions=false)
+### 📌 Top Repositories
+[![Hemant's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=jhahemantx&repo=Repo1&theme=dark)](https://github.com/jhahemantx/mlops)
+[![Hemant's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=jhahemantx&repo=Repo2&theme=dark)](https://github.com/jhahemantx/portfolio)
+[![Hemant's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=jhahemantx&repo=Repo3&theme=dark)](https://github.com/jhahemantx/churn-flask)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jhahemantx&icon=0&color=0)](https://visitcount.itsvg.in)
